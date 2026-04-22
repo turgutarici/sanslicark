@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Şanslı Çark</string>
+    <string name="play">Oyna</string>
+    <string name="options">Seçenekler</string>
+    <string name="add_prize_options">Seçenek Ekle</string>
+    <string name="add_prize_desc">Çarkı doldurmak için isim veya ödül girin.</string>
+    <string name="prize_placeholder"></string>
+    <string name="add_button">EKLE</string>
+    <string name="current_options">Mevcut Seçenekler</string>
+    <string name="options_count">%d Seçenek</string>
+    <string name="ready_to_spin">Çevirmeye Hazır</string>
+    <string name="spin">ÇEVİR</string>
+    <string name="last_win">SONUÇ</string>
+    <string name="good_luck"> </string>
+    <string name="min_options_warning">Çevirmek için en az 2 seçenek eklemelisiniz.</string>
+    <string name="your_wheel_awaits">Çarkın Seni Bekliyor</string>
+    <string name="add_two_options_desc">Çevirme mekanizmasını açmak için en az iki seçenek ekleyin.</string>
+</resources>
